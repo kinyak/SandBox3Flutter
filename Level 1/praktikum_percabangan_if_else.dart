@@ -1,4 +1,3 @@
-// Program Dart untuk menentukan kategori umur pengguna
 import 'dart:io';
 
 void main() {

@@ -8,7 +8,6 @@ String salam(String name) {
 
 // Fungsi utama program
 void main() {
-  // Menampilkan pesan permintaan nama kepada pengguna
   print("Masukkan nama:");
 
   // Membaca input nama dari pengguna

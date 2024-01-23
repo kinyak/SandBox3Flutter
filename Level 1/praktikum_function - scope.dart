@@ -19,10 +19,8 @@ void main() {
   // Membuat fungsi sapa dengan modifikasi nama
   final sapaFunction = buatSapaFunction(filterKataKasar);
 
-  // Menyapa 'Rendi' tanpa modifikasi
   sapaFunction('Rendi');
 
-  // Menyapa 'gila' dengan modifikasi kata-kasar
   sapaFunction('gila');
 }
 
